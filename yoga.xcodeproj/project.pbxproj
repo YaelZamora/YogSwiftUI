@@ -11,6 +11,7 @@
 		7E72AC0529CE53C50036EA9E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E72AC0429CE53C50036EA9E /* ContentView.swift */; };
 		7E72AC0729CE53C60036EA9E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E72AC0629CE53C60036EA9E /* Assets.xcassets */; };
 		7E72AC0A29CE53C60036EA9E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E72AC0929CE53C60036EA9E /* Preview Assets.xcassets */; };
+		7E72AC1129CE58400036EA9E /* ActivitiesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E72AC1029CE58400036EA9E /* ActivitiesView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7E72AC0429CE53C50036EA9E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7E72AC0629CE53C60036EA9E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7E72AC0929CE53C60036EA9E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7E72AC1029CE58400036EA9E /* ActivitiesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivitiesView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				7E72AC0229CE53C50036EA9E /* yogaApp.swift */,
 				7E72AC0429CE53C50036EA9E /* ContentView.swift */,
+				7E72AC1029CE58400036EA9E /* ActivitiesView.swift */,
 				7E72AC0629CE53C60036EA9E /* Assets.xcassets */,
 				7E72AC0829CE53C60036EA9E /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7E72AC1129CE58400036EA9E /* ActivitiesView.swift in Sources */,
 				7E72AC0529CE53C50036EA9E /* ContentView.swift in Sources */,
 				7E72AC0329CE53C50036EA9E /* yogaApp.swift in Sources */,
 			);
